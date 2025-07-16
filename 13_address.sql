@@ -1,0 +1,1 @@
+CREATE TABLE address (id int not null, street VARCHAR(255), postcode VARCHAR(10) DEFAULT 'sa123', town VARCHAR(30) default 'Sargodha');
