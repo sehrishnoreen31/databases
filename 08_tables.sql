@@ -1,0 +1,1 @@
+create TABLE devices (deviceId int, deviceName VARCHAR(50), price DECIMAL);

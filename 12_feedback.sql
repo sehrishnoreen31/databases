@@ -1,0 +1,1 @@
+CREATE Table feedback (feedbackId CHAR(9), feedbackType CHAR(50), feedbackComment VARCHAR(500));

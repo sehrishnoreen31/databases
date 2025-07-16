@@ -1,0 +1,1 @@
+CREATE table stock (deviceId int, quantity int, totalPrice DECIMAL);

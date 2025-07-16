@@ -1,0 +1,1 @@
+create TABLE customers (userName CHAR(9), fullName VARCHAR(50), email VARCHAR(255));
